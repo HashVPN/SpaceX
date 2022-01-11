@@ -1,0 +1,1 @@
+window.settings={title:"SpaceX",description:"SpaceX is Best",host:"https://api.spacex.im",theme:{sidebar:"light",header:"dark",color:"default"}};
