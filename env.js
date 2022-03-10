@@ -1,1 +1,1 @@
-window.settings={title:"SpaceX",description:"SpaceX is Best",host:"https://api.spacex.im",theme:{sidebar:"light",header:"dark",color:"default"}};
+window.settings={title:"SpaceX",description:"SpaceX is Best",host:"https://api.spacex.im",theme:{sidebar:"light",header:"dark",color:"default"},i18n:["zh-CN","en-US","ja-JP","vi-VN","ko-KR","zh-TW"]};
