@@ -1,1 +1,17 @@
-window.settings={title:'SpaceX',description:'IPLC机场',host:'https://api.spacex.im',theme:{sidebar:'light',header:'dark',color:'default'},i18n:['zh-CN','en-US','ja-JP','vi-VN','ko-KR','zh-TW']}
+window.settings = {
+  // 站点标题
+  title: 'V2Board',
+  // API
+  host: 'https://api.spacex.im',
+  // 主题
+  theme: {
+    sidebar: 'light',
+    header: 'dark',
+    color: 'default'
+  },
+  // 背景
+  background_url: '',
+  logo: '',
+  // 需与V2Board设置中的后台路径一致
+  secure_path: 'admin'
+}
