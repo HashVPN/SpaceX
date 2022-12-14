@@ -2,9 +2,9 @@ window.settings = {
   // 站点标题
   title: 'SpaceX',
   // 站点描述
-  description: 'https://api.spacex.im',
+  description: 'IEPL机场',
   // API
-  host: '',
+  host: 'https://api.spacex.im',
   // 主题
   theme: {
     sidebar: 'light',
