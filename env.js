@@ -11,10 +11,6 @@ window.settings = {
     header: 'dark',
     color: 'default'
   },
-  // 背景
-  background_url: '',
-  // crisp
-  crisp_id: '',
   i18n: [
     'zh-CN',
     'en-US',
